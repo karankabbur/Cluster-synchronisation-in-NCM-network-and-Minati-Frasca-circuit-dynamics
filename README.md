@@ -1,0 +1,1 @@
+# Cluster-synchronisation-in-NCM-network-and-Minati-Frasca-circuit-dynamics
