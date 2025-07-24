@@ -80,7 +80,7 @@ def LyapExp(nu, f, parameters, initc, t, h, N, frec, Tsample):
         
     return explya#, P, tl
 
-# Function to compute the Lorenz system
+# Function to compute the Rossler system
 def f(t, p, params):
     dx, dy, dz, x, y, z = p
     a, b, c, nu = params
